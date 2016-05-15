@@ -1,0 +1,12 @@
+/****************************
+ * Multiline block comments *
+ ****************************/
+
+// Create a simple hello world procedure.
+proc helloWorld() {
+	// Output "Hello, world!" message.
+	print "Hello, world!\n";
+}
+
+// Call helloWorld procedure.
+helloWorld;
